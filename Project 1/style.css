@@ -1,0 +1,67 @@
+body{
+    color: #1e306e;
+    
+}
+a{
+    color: white;
+}
+header{
+    background-image: url("image.jpg");
+    background-color: #30373b;
+    text-align: center;
+    height: 500px;
+    padding: 5px;
+
+    
+}
+.logo{
+    width: 200px;
+    height: 150px;
+    padding: none;
+    display: block;
+    margin-left: 0 auto;
+    
+}
+header .top-liner{
+    font-size: 15px;
+    font-weight: bold;
+        
+}
+header a.border{
+    margin-top: 100px;
+    padding: 15px;
+    border-radius: 0.25em;
+    background-color: #1e306e;
+    display: inline-block;
+    
+} 
+
+header .footer{
+    margin-top: 180px;
+    color: white;
+    display: block; 
+    margin-right: 500px;
+}
+
+
+.test{ 
+    text-align: center;
+}
+
+.reviews{
+    display: inline-block;
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    margin-left: 120px;
+}
+.foot{
+    background-color: #30373b;
+    color: white;
+    padding:15px;
+}
+
+
+
+
+
